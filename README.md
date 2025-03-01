@@ -103,7 +103,7 @@ A modern, responsive e-commerce frontend built with Next.js App Router.
 
 ## 📫 Let's Connect
 
-- 🌐 [Personal Website]([https://yourwebsite.com](https://portfolio.tungdev1996.online/))
+- 🌐 [Personal Website](https://portfolio.tungdev1996.online/))
 - 📧 [Email](mailto:96duongtung@gmail.com)
 
 ---
