@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Tung
 
-## Full Stack Developer | Go | Next.js | Microservices
+## Full Stack Developer | Go | Next.js | Microservices | gRPC
 
-I build scalable, resilient applications with modern architectures. My focus is on creating robust backend systems with Go and intuitive frontends with Next.js.
+I build scalable, resilient applications with modern architectures. My focus is on Go development and creating robust backend systems with Go and intuitive frontends with Next.js.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=firefox)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:96duongtung@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=firefox)]((https://portfolio.tungdev1996.online/))
 
 ---
 
@@ -20,6 +19,7 @@ A scalable e-commerce backend built with Go microservices and event-driven archi
 [![Gin](https://img.shields.io/badge/Gin-Framework-00ADD8?style=flat&logo=go)](https://github.com/gin-gonic/gin)
 [![Kafka](https://img.shields.io/badge/Apache%20Kafka-Streaming-231F20?style=flat&logo=apache-kafka)](https://kafka.apache.org/)
 [![Redis](https://img.shields.io/badge/Redis-v9.7.0-DC382D?style=flat&logo=redis)](https://redis.io/)
+[![gRPC](https://img.shields.io/badge/gRPC-Service%20Communication-2CA5E0?style=flat&logo=google)](https://grpc.io/)
 
 **Key Features:**
 - 🏗️ Microservices architecture with 6 specialized services
@@ -29,6 +29,7 @@ A scalable e-commerce backend built with Go microservices and event-driven archi
 - 📈 Performance monitoring with Grafana
 - 🧪 Load testing with K6
 - 🐳 Docker containerization
+- 🔌 gRPC for high-performance inter-service communication
 
 **[View Repository](https://github.com/supersida159/e-commerce)**
 
@@ -41,6 +42,7 @@ A comprehensive solution for kindergarten administration and parent communicatio
 [![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat&logo=go)](https://golang.org/doc/go1.22)
 [![Kraken](https://img.shields.io/badge/Kraken-API%20Gateway-blue?style=flat)](https://github.com/emicklei/go-restful)
 [![Gorush](https://img.shields.io/badge/Gorush-Notifications-orange?style=flat)](https://github.com/appleboy/gorush)
+[![gRPC](https://img.shields.io/badge/gRPC-Service%20Communication-2CA5E0?style=flat&logo=google)](https://grpc.io/)
 
 **Key Features:**
 - 🚪 Kraken API Gateway for efficient request routing
@@ -50,6 +52,7 @@ A comprehensive solution for kindergarten administration and parent communicatio
 - 📝 Student progress tracking
 - 📅 Attendance management
 - 📸 Photo sharing capabilities
+- 🔄 Efficient service communication with gRPC
 
 **Private Project**
 
@@ -72,7 +75,7 @@ A modern, responsive e-commerce frontend built with Next.js App Router.
 - 📱 Responsive design for all devices
 - 🌙 Dark mode support
 
-**[View Repository]((https://github.com/supersida159/e-commerce-FE-))**
+**[View Repository](https://github.com/supersida159/e-commerce-FE-)**
 
 ---
 
@@ -81,6 +84,7 @@ A modern, responsive e-commerce frontend built with Next.js App Router.
 ### Backend
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-2CA5E0?style=flat&logo=google&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -98,12 +102,11 @@ A modern, responsive e-commerce frontend built with Next.js App Router.
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![K6](https://img.shields.io/badge/K6-7D64FF?style=flat&logo=k6&logoColor=white)
 
-
 ---
 
 ## 📫 Let's Connect
 
-- 🌐 [Personal Website](https://portfolio.tungdev1996.online/))
+- 🌐 [Personal Website](https://portfolio.tungdev1996.online/)
 - 📧 [Email](mailto:96duongtung@gmail.com)
 
 ---
